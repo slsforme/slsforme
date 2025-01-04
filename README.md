@@ -3,25 +3,19 @@
 
 𝙵𝚛𝚊𝚖𝚎𝚠𝚘𝚛𝚔𝚜 𝚊𝚗𝚍 𝚕𝚒𝚋𝚛𝚊𝚛𝚒𝚎𝚜 𝙸 𝚠𝚘𝚛𝚔𝚎𝚍 𝚠𝚒𝚝𝚑:
 
-- Django Framework
+- Django Framework && DRF
 
-- Django REST Framework
+- FastAPI
+
+- aiohttp
 
 - Beautiful Soup 4 
-
-- httpx
-
-- asyncio
 
 - aiogram 3.0.0+
 
 - Web3
 
-- Pandas && NumPy
-
-My LeetCode stats: 
-
-[![slsforme's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=slsforme&theme=light)](https://github.com/slsforme/leetcode-stats)
+- Pandas && NumPy && sklearn
 
 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 𝙸'𝚖 𝚏𝚊𝚖𝚒𝚕𝚒𝚊𝚛 𝚠𝚒𝚝𝚑:
 
@@ -34,6 +28,8 @@ My LeetCode stats:
 +  C++
 
 +  C#
+
++  Dart - Flutter
   
 Information about my most used languages:
 
