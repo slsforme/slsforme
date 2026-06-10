@@ -4,6 +4,11 @@
 
 ## My tehchnological stack: 
 
+### Go
+- Standart library
+- Goroutines
+- REST API & gRPC
+
 ### Python
 - FastAPI & Alembic & SQLAlchemy
 - Django Framework & DRF
